@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Harsh, a passionate Software Engineer focused on building real-world web applications. I work with the MERN stack, enjoy solving problems, and continuously improve my coding and DSA skills. I believe in learning by building and writing clean, scalable code. 🚀
+Hi, I’m Harshit Bhardwaj, a passionate Software Engineer focused on building real-world web applications. I work with the MERN stack, enjoy solving problems, and continuously improve my coding and DSA skills. I believe in learning by building and writing clean, scalable code. 🚀
 
 
 ## 🌐 Socials:
